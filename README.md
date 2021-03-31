@@ -17,6 +17,6 @@
 ![2021 04 01](https://user-images.githubusercontent.com/74912530/113218306-438fc500-92ba-11eb-8473-3aa913e516cb.png)
 <br/>
 <br/>
-HTML로 기초적인 뼈대를 세우는 작업을 하였습니다.
+HTML로 기초적인 뼈대를 세우는 작업을 하였습니다. 추후 CSS로 디자인을하고 JS로 기능들을 구현할 예정입니다.
 <br/>
 <br/>
