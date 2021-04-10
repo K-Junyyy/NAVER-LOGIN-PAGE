@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-### [제작한 네이버 로그인 페이지 웹호스팅](https://github.com/k-junyyy.github.io/NAVER-LOGIN-PAGE/naver-login-page/login.html)
+### [제작한 네이버 로그인 페이지 웹호스팅](https://k-junyyy.github.io/NAVER-LOGIN-PAGE/naver-login-page/login.html)
 <br/>
 <br/>
 
