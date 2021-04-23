@@ -10,7 +10,11 @@
 
 ## 네이버 공식 로그인 화면
 
-<img src="https://user-images.githubusercontent.com/74912530/113218006-c19f9c00-92b9-11eb-94a4-ce6db238fe6b.png" width="auto" height="400px">
+<span>
+  <img src="https://user-images.githubusercontent.com/74912530/115931737-a09c2680-a4c6-11eb-8a7e-e0ac80dbc733.png" width="auto" height="500px">
+  <img src="https://user-images.githubusercontent.com/74912530/115931739-a265ea00-a4c6-11eb-8d97-f80c6bec3b87.png" width="auto" height="500px">
+</span>
+
 <br/>
 <br/>
 <br/>
@@ -19,6 +23,7 @@
 ## 2021.04.01 결과물
 
 <img src="https://user-images.githubusercontent.com/74912530/113218306-438fc500-92ba-11eb-8473-3aa913e516cb.png" width="auto" height="400px">
+
 <br/>
 <br/>
 HTML로 기초적인 뼈대를 세우는 작업을 하였습니다. 추후 CSS로 디자인을하고 JS로 기능들을 구현할 예정입니다.
@@ -49,7 +54,6 @@ CSS로 네이버 로그인 페이지와 최대한 비슷하게 디자인하고 �
   <img src="https://user-images.githubusercontent.com/74912530/115930706-e5bf5900-a4c4-11eb-85d7-d51e1f298091.png" width="auto" height="600px">
   <img src="https://user-images.githubusercontent.com/74912530/115930709-e657ef80-a4c4-11eb-8209-d638de2a1852.png" width="auto" height="600px">
 </span>
-
 
 <br/>
 <br/>
