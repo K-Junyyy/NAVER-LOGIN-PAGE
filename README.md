@@ -10,7 +10,7 @@
 
 ## 네이버 공식 로그인 화면
 
-![네이버 로그인 화면](https://user-images.githubusercontent.com/74912530/113218006-c19f9c00-92b9-11eb-94a4-ce6db238fe6b.png)
+<img src="https://user-images.githubusercontent.com/74912530/113218006-c19f9c00-92b9-11eb-94a4-ce6db238fe6b.png" width="auto" height="400px">
 <br/>
 <br/>
 <br/>
@@ -18,7 +18,7 @@
 
 ## 2021.04.01 결과물
 
-![2021 04 01](https://user-images.githubusercontent.com/74912530/113218306-438fc500-92ba-11eb-8473-3aa913e516cb.png)
+<img src="https://user-images.githubusercontent.com/74912530/113218306-438fc500-92ba-11eb-8473-3aa913e516cb.png" width="auto" height="400px">
 <br/>
 <br/>
 HTML로 기초적인 뼈대를 세우는 작업을 하였습니다. 추후 CSS로 디자인을하고 JS로 기능들을 구현할 예정입니다.
@@ -28,9 +28,10 @@ HTML로 기초적인 뼈대를 세우는 작업을 하였습니다. 추후 CSS�
 <br/>
 
 ## 2021.04.11 결과물
-
-![2021 04 11-1](https://user-images.githubusercontent.com/74912530/114278119-2fda2080-9a69-11eb-99f1-13b3646e0034.png)
-![2021 04 11-2](https://user-images.githubusercontent.com/74912530/114278122-31a3e400-9a69-11eb-90e6-8bbd07ea7ec9.png)
+<span>
+  <img src="https://user-images.githubusercontent.com/74912530/114278119-2fda2080-9a69-11eb-99f1-13b3646e0034.png" width="auto" height="400px">
+  <img src="https://user-images.githubusercontent.com/74912530/114278122-31a3e400-9a69-11eb-90e6-8bbd07ea7ec9.png" width="auto" height="400px">
+</span>
 
 <br/>
 <br/>
