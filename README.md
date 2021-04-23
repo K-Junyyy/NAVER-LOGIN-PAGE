@@ -44,9 +44,11 @@ CSS로 네이버 로그인 페이지와 최대한 비슷하게 디자인하고 �
 
 
 ## 2021.04.24 결과물
+<span>
+  <img src="https://user-images.githubusercontent.com/74912530/115930706-e5bf5900-a4c4-11eb-85d7-d51e1f298091.png" width="auto" height="600px">
+  <img src="https://user-images.githubusercontent.com/74912530/115930709-e657ef80-a4c4-11eb-8209-d638de2a1852.png" width="auto" height="600px">
+</span>
 
-![2021 04 24-1](https://user-images.githubusercontent.com/74912530/115930706-e5bf5900-a4c4-11eb-85d7-d51e1f298091.png)
-![2021 04 24-2](https://user-images.githubusercontent.com/74912530/115930709-e657ef80-a4c4-11eb-8209-d638de2a1852.png)
 
 <br/>
 <br/>
