@@ -49,7 +49,6 @@ CSS로 네이버 로그인 페이지와 최대한 비슷하게 디자인하고 �
 <br/>
 <br/>
 
-
 ## 2021.04.24 결과물
 <span>
   <img src="https://user-images.githubusercontent.com/74912530/115930706-e5bf5900-a4c4-11eb-85d7-d51e1f298091.png" width="auto" height="600px">
@@ -64,4 +63,16 @@ JavaScript를 통해 언어 선택시 한글에서 영어로 변경되도록 기
 <br/>
 <br/>
 
+## 2021.05.05 결과물
+<span>
+  <img src="https://user-images.githubusercontent.com/74912530/117074004-ba165b80-ad6d-11eb-9480-5bcec598c666.png" width="auto" height="600px">
+</span>
+
+<br/>
+<br/>
+네이버 회원가입 폼 제작 (로그인페이지에서 "회원가입" 클릭 시 링크 html파일로 이동)
+<br/>
+<br/>
+<br/>
+<br/>
 
